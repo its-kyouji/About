@@ -8,9 +8,11 @@
 
 <br>
 
----
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-## ABOUT
+### ABOUT
 
 I prefer understanding things beyond what is immediately visible.
 
@@ -20,31 +22,39 @@ I don't always look for the fastest answer. Sometimes the interesting part is fi
 
 Privacy, independence, and curiosity matter to me. Not everything needs to be explained or put on display.
 
-<br>
+</td>
+<td width="50%" valign="top">
 
-## CURRENT
+### CURRENT
 
 Currently exploring ideas, experimenting with different approaches, and turning some of those experiments into things worth keeping.
 
-Some become projects.  
-Some remain experiments.  
+Some become projects.
+
+Some remain experiments.
+
 Some simply answer a question.
 
-<br>
+</td>
+</tr>
+</table>
 
----
+<br>
 
 <div align="center">
 
 ## INTERESTS
 
-`Curiosity` · `Exploration` · `Research` · `Building` · `Experimentation`
+`Curiosity` · `Exploration` · `Research`  
+`Building` · `Experimentation`
 
 </div>
 
 <br>
 
----
+<table align="center">
+<tr>
+<td width="33%" align="center">
 
 ### EXPLORE
 
@@ -52,10 +62,18 @@ Look closer.
 Question assumptions.  
 Find what's underneath.
 
+</td>
+
+<td width="33%" align="center">
+
 ### CREATE
 
 Turn ideas into something tangible.  
 Build, test, refine.
+
+</td>
+
+<td width="33%" align="center">
 
 ### LEARN
 
@@ -63,9 +81,11 @@ Understand the result.
 Keep what works.  
 Learn from what doesn't.
 
-<br>
+</td>
+</tr>
+</table>
 
----
+<br>
 
 <details>
 <summary><b>MORE ABOUT ME</b></summary>
