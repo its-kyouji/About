@@ -1,100 +1,56 @@
 <div align="center">
 
-# IT'S KYOUJI
+# ＫＹＯＵＪＩ
 
-`observe · explore · understand · create`
-
-</div>
+`>_ observe · explore · understand · create`
 
 <br>
+</div>
 
-<table width="100%" align="center">
-<tr>
-<td width="50%" valign="top" align="left">
+### ↳ ABOUT
+> I prefer understanding things beyond what is immediately visible.
+> 
+> Curiosity usually starts the process. From there, I like exploring ideas, questioning assumptions, trying different approaches, and learning from the results.
+> 
+> I don't always look for the fastest answer. Sometimes the interesting part is figuring out why something works the way it does in the first place.
+> 
+> Privacy, independence, and curiosity matter to me. Not everything needs to be explained or put on display.
 
-### ABOUT
-
-I prefer understanding things beyond what is immediately visible.
-
-Curiosity usually starts the process. From there, I like exploring ideas, questioning assumptions, trying different approaches, and learning from the results.
-
-I don't always look for the fastest answer. Sometimes the interesting part is figuring out why something works the way it does in the first place.
-
-Privacy, independence, and curiosity matter to me. Not everything needs to be explained or put on display.
-
-</td>
-<td width="50%" valign="top" align="left">
-
-### CURRENT
-
-Currently exploring ideas, experimenting with different approaches, and turning some of those experiments into things worth keeping.
-
-Some become projects.<br><br>
-Some remain experiments.<br><br>
-Some simply answer a question.
-
-</td>
-</tr>
-</table>
+### ↳ CURRENT
+> Currently exploring ideas, experimenting with different approaches, and turning some of those experiments into things worth keeping.
+> 
+> `-` Some become projects.  
+> `-` Some remain experiments.  
+> `-` Some simply answer a question.
 
 <br>
 
 <div align="center">
 
-## INTERESTS
+## `[ I N T E R E S T S ]`
 
-`Curiosity` · `Exploration` · `Research`  
-`Building` · `Experimentation`
+`Curiosity` ◈ `Exploration` ◈ `Research` ◈ `Building` ◈ `Experimentation`
+
+<br>
+
+| EXPLORE | CREATE | LEARN |
+| :--- | :--- | :--- |
+| Look closer.<br>Question assumptions.<br>Find what's underneath. | Turn ideas into something tangible.<br>Build, test, refine. | Understand the result.<br>Keep what works.<br>Learn from what doesn't. |
 
 </div>
 
 <br>
 
-<table width="100%" align="center">
-<tr>
-<td width="33%" valign="top" align="center">
-
-### EXPLORE
-
-Look closer.<br>
-Question assumptions.<br>
-Find what's underneath.
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### CREATE
-
-Turn ideas into something tangible.<br>
-Build, test, refine.
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### LEARN
-
-Understand the result.<br>
-Keep what works.<br>
-Learn from what doesn't.
-
-</td>
-</tr>
-</table>
-
-<br>
-
 <details>
-<summary><b>MORE ABOUT ME</b></summary>
+<summary><code><b>[ + ] MORE ABOUT ME</b></code></summary>
 
 <br>
 
-> I enjoy things that leave room for discovery.
-> 
-> Interesting problems, unexpected behavior, unusual ideas, and projects that start with a simple question tend to keep my attention.
-> 
-> Not everything here has a particular destination. Some things are here because they were useful, some because they were interesting, and some simply because I wanted to see where the idea would go.
+I enjoy things that leave room for discovery.
+
+Interesting problems, unexpected behavior, unusual ideas, and projects that start with a simple question tend to keep my attention.
+
+Not everything here has a particular destination. Some things are here because they were useful, some because they were interesting, and some simply because I wanted to see where the idea would go.
 
 </details>
 
@@ -105,7 +61,7 @@ Learn from what doesn't.
 ---
 
 **It's Kyouji.**
-
-<sub>Nothing more, nothing less.</sub>
+<br>
+<sub>`Nothing more, nothing less.`</sub>
 
 </div>
