@@ -1,48 +1,5 @@
 <div align="center">
 
-# IT'S KYOUJI
-
-`observe · explore · understand · create`
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### ABOUT
-
-I prefer understanding things beyond what is immediately visible.
-
-Curiosity usually starts the process. From there, I like exploring ideas, questioning assumptions, trying different approaches, and learning from the results.
-
-I don't always look for the fastest answer. Sometimes the interesting part is figuring out why something works the way it does in the first place.
-
-Privacy, independence, and curiosity matter to me. Not everything needs to be explained or put on display.
-
-</td>
-<td width="50%" valign="top">
-
-### CURRENT
-
-Currently exploring ideas, experimenting with different approaches, and turning some of those experiments into things worth keeping.
-
-Some become projects.
-
-Some remain experiments.
-
-Some simply answer a question.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
 ## INTERESTS
 
 `Curiosity` · `Exploration` · `Research`  
@@ -54,7 +11,7 @@ Some simply answer a question.
 
 <table align="center">
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### EXPLORE
 
@@ -64,7 +21,7 @@ Find what's underneath.
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### CREATE
 
@@ -73,7 +30,7 @@ Build, test, refine.
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### LEARN
 
@@ -108,6 +65,6 @@ Not everything here has a particular destination. Some things are here because t
 
 **It's Kyouji.**
 
-<sub>Nothing more, nothing less.</sub>
+Nothing more, nothing less.
 
 </div>
