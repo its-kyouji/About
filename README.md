@@ -27,7 +27,7 @@
 
 <div align="center">
 
-## `[ INTERESTS ]`
+## `INTERESTS`
 
 `Curiosity` ◈ `Exploration` ◈ `Research` ◈ `Building` ◈ `Experimentation`
 
